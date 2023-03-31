@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adney11.github.io/about/</loc>
+    <loc>https://adney11.github.io/blog/about/</loc>
     <lastmod>2023-03-31T13:25:41-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url><url>
-    <loc>https://adney11.github.io/</loc>
+    <loc>https://adney11.github.io/blog/</loc>
     <lastmod>2023-03-31T13:25:41-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url><url>
-    <loc>https://adney11.github.io/categories/</loc>
+    <loc>https://adney11.github.io/blog/categories/</loc>
     <changefreq>monthly</changefreq>
   </url><url>
-    <loc>https://adney11.github.io/tags/</loc>
+    <loc>https://adney11.github.io/blog/tags/</loc>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>

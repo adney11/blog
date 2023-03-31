@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://adney11.github.io/"
+baseURL = "https://adney11.github.io/blog/"
 theme = 'ananke'
 
 # Copyright and Language

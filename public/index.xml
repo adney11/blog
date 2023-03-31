@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Words, Paragraphs and Summaries on adney11</title>
-    <link>https://adney11.github.io/</link>
+    <link>https://adney11.github.io/blog/</link>
     <description>Recent content in Words, Paragraphs and Summaries on adney11</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2023, Adney Cardoza.</copyright>
-    <lastBuildDate>Fri, 31 Mar 2023 13:25:41 -0500</lastBuildDate><atom:link href="https://adney11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 13:25:41 -0500</lastBuildDate><atom:link href="https://adney11.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://adney11.github.io/about/</link>
+      <link>https://adney11.github.io/blog/about/</link>
       <pubDate>Fri, 31 Mar 2023 13:25:41 -0500</pubDate>
       
-      <guid>https://adney11.github.io/about/</guid>
+      <guid>https://adney11.github.io/blog/about/</guid>
       <description></description>
     </item>
     
