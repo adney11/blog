@@ -8,7 +8,7 @@ copyright = "Copyright © 2023, Adney Cardoza."
 languageCode = "en-US"
 
 Paginate = 5
-relativeURLs = true
+#relativeURLs = true
 
 # Basic metadata configuration for your blog.
 title = "adney11"
