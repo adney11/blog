@@ -1,0 +1,10 @@
+#+TITLE: Writing Elisp Code
+#+DATE: 2023-03-31T17:18:29-05:00
+#+DRAFT: true
+#+DESCRIPTION:
+#+TAGS[]: random
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Hey in this post i will be talking about writing elisp code to customize stuff

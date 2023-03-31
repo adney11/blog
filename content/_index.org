@@ -1,6 +1,6 @@
-#+TITLE: Homepage
+#+TITLE: Words, Paragraphs and Summaries
 #+DATE: 2023-03-31T13:25:41-05:00
-#+DRAFT: true
+#+DRAFT: false
 #+DESCRIPTION:
 #+TAGS[]:
 #+KEYWORDS[]:
