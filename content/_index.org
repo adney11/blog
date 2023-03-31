@@ -1,0 +1,20 @@
+#+TITLE: Homepage
+#+DATE: 2023-03-31T13:25:41-05:00
+#+DRAFT: true
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Hi there.
+
+Trying my hand at writing more frequently, and publicly. Let's get to it.
+* First things first
+Some TODOs to carry out in the near(ish) future.
+** TODO Set up a workflow that will make writing and publishing these posts easier.
+- emacs keybinding to make new blog post - DONE
+- auto publish to gitpages
+- add keybinding to make new page, in other content/folders
+** TODO Change out text on this page
+Write a small bio? Some non-dev text, literally the whole point for this.

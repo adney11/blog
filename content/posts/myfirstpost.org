@@ -1,9 +1,0 @@
----
-title: "Myfirstpost"
-date: 2023-03-31T11:12:22-05:00
-draft: true
----
-
-* Introduction
-
-This is some text written in org-mode, seeing if this works or not.

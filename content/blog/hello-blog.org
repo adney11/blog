@@ -1,0 +1,17 @@
+#+TITLE: Hello Blog
+#+DATE: 2023-03-31T13:25:41-05:00
+#+DRAFT: true
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG: intro
+#+SUMMARY:
+
+How goes it?
+This is my first blog post.
+
+I am also using this to add some links to refer later, to make this
+process better.
+But how do I add links? External links can be added as normal from org-mode, like:\\
+[[https://lucidmanager.org/productivity/taking-notes-with-emacs-org-mode-and-org-roam/][Using Org-Roam to take notes]]
+
